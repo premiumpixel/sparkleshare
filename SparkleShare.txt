@@ -7,3 +7,6 @@ SparkleShare is an Open Source software program that helps people collaborate an
 share files. If you like what we do, consider buying us a beer: http://www.sparkleshare.org/
 
 Have fun! :)
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAzg5IVMBpdxfUlrh/l4uPwIVKvH5iO19aOq9Pc0m6oYLel40IuR5s5XrcwDteKGuceekAk4m3TKG1WBX2VZxXwcRMdxmnhx97ZTXnK08++ocQGQ/TSvzDg2ILk7x/oBL6tQiNu9kwC3Tp+9WtoW+okq8rNxZ5NBN8mR06dPEjEEDOupARSgqO4GOAFClsgT8sEgBCdnSo+p8ulHI5yx6m7vy20wnh5K5dqCpBv72QRYVLWdRhejjNVQwli9MgjK3j3EPWAIdFMzeQaruhLwyFA5JkR2jv8jk+JbIfNv9D8ynlRfeF7H0sgukgRHdpF4Q6WTfuU4NcSvm78w6fNwheCw== flo-PC
